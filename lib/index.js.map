@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/index.js"],"names":["module","exports","Image"],"mappings":";;AAAA;;;;;;AACAA,OAAOC,OAAP,GAAiB;AACfC;AADe,CAAjB","file":"index.js","sourcesContent":["import Image from \"./Image\";\nmodule.exports = {\n  Image,\n};\n"]}
