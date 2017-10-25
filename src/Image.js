@@ -1,5 +1,6 @@
 import GL from "gl-react";
-import React, {PropTypes} from "react";
+import React from "react";
+import PropTypes from "prop-types";
 import rectCrop from "rect-crop";
 import rectClamp from "rect-clamp";
 
